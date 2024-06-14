@@ -19,7 +19,7 @@ export class UsersService {
         password: false,
         createdAt: true,
         updatedAt: true,
-      }
+      },
     });
 
     return {
